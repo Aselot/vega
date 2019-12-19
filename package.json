@@ -39,5 +39,8 @@
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "yarn": "^1.21.1"
+  }
 }
